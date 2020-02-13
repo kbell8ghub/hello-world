@@ -5,9 +5,9 @@ I just came from the GYM and I just had breakfast.
 
 List of portfolio projects:
 
-Media Queries<br>
-Skeleton<br>
-Flexbox<br>
-Bootstrap<br>
-UIKit
+> Media Queries<br>
+> Skeleton<br>
+> Flexbox<br>
+> Bootstrap<br>
+> UIKit
 
